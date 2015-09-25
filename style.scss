@@ -1,0 +1,35 @@
+$red: #E1202D;
+$blue: #6ED1F2;
+$white: #F3F2F5;
+
+$big: 800;
+$medium: 600;
+$small: 400;
+
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight: $small;
+	background-color: $white;
+}
+.navbar {
+	height: 70px;
+	background-color: $white;
+}
+.navbar-brand {
+	padding-top: 7px;
+}
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: $big;
+	font-size: 36px;
+}
+u { 
+	text-decoration: none;
+	border-bottom: 4px solid $red;
+}
+
+.offers {
+	height: 1000px;
+	width: 100%;
+}
+

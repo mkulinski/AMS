@@ -1,0 +1,26 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  background-color: #F3F2F5; }
+
+.navbar {
+  height: 70px;
+  background-color: #F3F2F5; }
+
+.navbar-brand {
+  padding-top: 7px; }
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  font-size: 36px; }
+
+u {
+  text-decoration: none;
+  border-bottom: 4px solid #E1202D; }
+
+.offers {
+  height: 1000px;
+  width: 100%; }
+
+/*# sourceMappingURL=style.css.map */
