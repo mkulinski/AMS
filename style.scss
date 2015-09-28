@@ -29,11 +29,12 @@ u {
 	padding-top: 7px;
 }
 .not-jumbo {
-	padding: 70px 0 0 0;
-	height: 800px;
-	margin-bottom: 70px;
+	padding: 0 0 0 0;
+	max-height: 800px;
+	color: $white;
 
 		.carousel { 
+			padding: 70px 0 0 0;
 			z-index:-99;
 		}
 
@@ -41,8 +42,15 @@ u {
 			width: 100%;
 			max-height: 800px;
 		}
+
+		.myHeading {
+			position: relative;
+			bottom: 600px;
+			left: 100px;
+		}
 }
 .offers {
 	height: 1000px;
 	width: 100%;
+	background-color: $blue;
 }
